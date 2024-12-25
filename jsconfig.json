@@ -1,0 +1,8 @@
+{
+  // navigate the '~' sign to 'src' to suggestion
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"]
+    }
+  }
+}
